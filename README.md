@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/altie122" target="blank"><img src="https://img.shields.io/twitter/follow/altie122?logo=twitter&style=for-the-badge" alt="altie122" /></a> </p>
 
-- 🔭 I’m currently working on [The Canvas](thecanvas.altie122.xyz)
+- 🔭 I’m currently working on [The Canvas](https://thecanvas.altie122.xyz)
 
 - 🌱 I’m currently learning **Roblox Game dev, Video Game dev, and a lot more**
 
 - 🤝 I’m looking for help with **Anything (bonus points if it is OSS)**
 
-- 👨‍💻 All of my projects are available at [altonrose.dev/portfolio](altonrose.dev/portfolio)
+- 👨‍💻 All of my projects are available at [altonrose.dev/portfolio](https://altonrose.dev/portfolio)
 
-- 📝 I regularly write articles on [altonrose.dev/blog](altonrose.dev/blog)
+- 📝 I regularly write articles on [altonrose.dev/blog](https://altonrose.dev/blog)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
