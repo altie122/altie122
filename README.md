@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [altonrose.dev/portfolio](https://altonrose.dev/portfolio)
 
-- 📝 I regularly write articles on [altonrose.dev/blog](https://altonrose.dev/blog)
+- 📝 I try to semi-regularly write articles on [altonrose.dev/blog](https://altonrose.dev/blog)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
