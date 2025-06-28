@@ -1,4 +1,4 @@
-Hi 👋 My name is Altie
+Hi 👋 My name is Alton Rose (Also known as altie122)
 ======================
 I have almost completely taught my self web dev, discord bot dev, and some more!
 * 🌍  I'm based in Wyoming.
