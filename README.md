@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [The Canvas](https://thecanvas.altie122.xyz)
+- 🔭 I’m currently working on Altie122 Studios projects <!-- [The Canvas](https://thecanvas.altie122.xyz) -->
 
 - 🌱 I’m currently learning **Roblox Game dev, Video Game dev, and a lot more**
 
