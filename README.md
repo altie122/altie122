@@ -3,17 +3,17 @@
 
 
 
-- 🔭 I’m currently working on Altie122 Studios projects <!-- [The Canvas](https://thecanvas.altie122.xyz) -->
+- 🔭 I’m currently working on Altie122 Studios, LLC products <!-- [The Canvas](https://thecanvas.altie122.xyz) -->
 
 - 🌱 I’m currently learning **Roblox Game dev, Video Game dev, and a lot more**
 
 - 🤝 I’m looking for help with **Anything (bonus points if it is OSS)**
 
 - 👨‍💻 All of my projects are available at [altonrose.dev/portfolio](https://altonrose.dev/portfolio)
-
+<!--
 - 📝 I try to semi-regularly write articles on [altonrose.dev/blog](https://altonrose.dev/blog)
 
-### Blogs posts
+### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
