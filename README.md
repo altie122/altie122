@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Alton Rose!</h1>
-<h3 align="center">A Highschool Student who's trying to make cool shit.</h3>
+<h3 align="center">A video game and web developer who's trying to make cool stuff.</h3>
 
 
 
