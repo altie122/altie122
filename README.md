@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Anything (bonus points if it is OSS)**
 
-- 👨‍💻 All of my projects are available at [altonrose.dev/portfolio](https://altonrose.dev/portfolio)
+- 👨‍💻 All of my projects are available at [altonrose.dev](https://altonrose.dev)
 <!--
 - 📝 I try to semi-regularly write articles on [altonrose.dev/blog](https://altonrose.dev/blog)
 
